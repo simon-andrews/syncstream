@@ -1,0 +1,11 @@
+{
+  "name": "syncstream",
+  "version": "0.0.1",
+  "description": "movie night, anywhere and with anyone",
+  "repository": "github:simon-andrews/syncstream",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
